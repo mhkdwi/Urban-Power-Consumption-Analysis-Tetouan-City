@@ -20,6 +20,10 @@ Saya menyederhanakan data ini menggunakan python dan pandas untuk melakukan bebe
 3. Serta menambah kolom pendukung seperti jam, nama hari, dan penanda *weekday/weekend*.
 
 Data jadi jauh lebih ringkas (8.736 baris) dan siap untuk dianalisis.  
-(code bisa di lihat di file **data_cleaning.ipynb**)
+(code bisa di lihat di file **data_cleaning.ipynb**)  
+
+Saya membuat sebuah dashboard di Power BI dari data yang telah disederhanakan  
+
+
 
 
