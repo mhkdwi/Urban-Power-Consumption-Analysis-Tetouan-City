@@ -7,6 +7,6 @@ Kota ini memiliki 4 musim:
 Musim Panas (Juni – September)&emsp;&emsp;&emsp;: suhu udara rata-rata bisa mencapai 27°-30° celcius  
 Musim Gugur (Oktober – November)&emsp;: suhu udara rata-rata 20° celcius  
 Musim Dingin (Desember – Maret)&emsp;&emsp;: suhu udara rata-rata berkisar 9°-16° celcius  
-Musim Semi (April – Mei)&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;: suhu uara rata-rata berkisar 15°-22° celcius  
+Musim Semi (April – Mei)&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;: suhu uara rata-rata berkisar 15°-22° celcius  
 
 ![Kota Tetouan](Tetouan.jpeg)
