@@ -1,6 +1,6 @@
 # data-analysis-electric-power-consumption  
 
-Aku menganalisis data dari kaggle yaitu data konsumsi power listrik di kota Tetouan, Maroko pada tahun 2018.  
+Aku menganalisis data dari kaggle yaitu data konsumsi power listrik di kota Tetouan, Maroko pada tahun 2018. (https://www.kaggle.com/datasets/fedesoriano/electric-power-consumption)  
 
 Tetouan merupaka kota bersejarah di utara Maroko yang dijuluki sebagai "Kota Putih" karena dominasi warna putih pada bangunan-bangunannya.  
   
