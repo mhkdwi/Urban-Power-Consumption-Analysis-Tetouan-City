@@ -19,7 +19,7 @@ Saya menyederhanakan data ini menggunakan python dan pandas untuk melakukan bebe
 2. Menghitung total penggunaan daya dari gabungan Zone 1, 2, dan 3. 
 3. Serta menambah kolom pendukung seperti jam, nama hari, dan penanda *weekday/weekend*.
 
-Data jadi jauh lebih ringkas (**8.736 baris**) dan siap untuk dianalisis.  
+Data jadi jauh lebih ringkas (8.736 baris) dan siap untuk dianalisis.  
 (code bisa di lihat di file **data_cleaning.ipynb**)
 
 
