@@ -11,4 +11,6 @@ Musim Dingin (Desember – Maret)&emsp;&emsp;: suhu udara rata-rata berkisar 9°
 Musim Semi (April – Mei)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;: suhu uara rata-rata berkisar 15°-22° celcius  
 
 ![Teks Alternatif](Tetouan.jpeg)
-<p align="center"><i>Kota Tetouan</i></p>
+<p align="center"><i>Kota Tetouan</i></p>  
+
+Data ini berisi pencatatan setiap **10 menit sekali** sepanjang tahun 2018, dengan total **52.416 baris data**.
