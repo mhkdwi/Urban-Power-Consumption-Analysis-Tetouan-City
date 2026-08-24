@@ -9,4 +9,14 @@ Musim Gugur (Oktober – November)  : suhu udara rata-rata 20° celcius
 Musim Dingin (Desember – Maret)   : suhu udara rata-rata berkisar 9°-16° celcius  
 Musim Semi (April – Mei)          : suhu uara rata-rata berkisar 15°-22° celcius  
 
+<details>
+  <summary><b>Python</b></summary>
+
+```python
+def hello_world():
+    print("Hello from Python!")
+```
+
+</details>
+
 ![Kota Tetouan](Tetouan.jpeg)
