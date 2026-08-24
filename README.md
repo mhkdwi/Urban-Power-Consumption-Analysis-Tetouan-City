@@ -14,9 +14,10 @@ Kota ini memiliki 4 musim:
 <p align="center"><i>Kota Tetouan</i></p>  
 
 Data ini berisi pencatatan setiap 10 menit sekali sepanjang tahun 2018, dengan total 52.416 baris data.  
-Saya menyederhanakan data ini menggunakan python dan pandas untuk melakukan beberapa proses (code bisa di lihat di file **data_cleaning.ipynb**:  
+Saya menyederhanakan data ini menggunakan python dan pandas untuk melakukan beberapa proses:  
 1. Resampling data dari per 10 menit menjadi rata-rata per jam (*hourly*).
 2. Menghitung total penggunaan daya dari gabungan Zone 1, 2, dan 3. 
 3. Serta menambah kolom pendukung seperti jam, nama hari, dan penanda *weekday/weekend*.
+(code bisa di lihat di file **data_cleaning.ipynb**
 
 
