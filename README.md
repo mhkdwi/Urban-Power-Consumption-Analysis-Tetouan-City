@@ -14,35 +14,9 @@ Kota ini memiliki 4 musim:
 <p align="center"><i>Kota Tetouan</i></p>  
 
 Data ini berisi pencatatan setiap 10 menit sekali sepanjang tahun 2018, dengan total 52.416 baris data.  
-Saya menyederhanakan data ini menggunakan python dan pandas untuk melakukan beberapa proses:  
+Saya menyederhanakan data ini menggunakan python dan pandas untuk melakukan beberapa proses (code bisa di lihat di file **data_cleaning.ipynb**:  
 1. Resampling data dari per 10 menit menjadi rata-rata per jam (*hourly*).
 2. Menghitung total penggunaan daya dari gabungan Zone 1, 2, dan 3. 
 3. Serta menambah kolom pendukung seperti jam, nama hari, dan penanda *weekday/weekend*.
-
-```python
-import pandas as pd
-
-# Load dataset utama
-df = pd.read_csv('powerconsumption.csv')
-
-# Format tanggal & hitung total konsumsi
-df['Datetime'] = pd.to_datetime(df['Datetime'])
-df['Total_Power_Consumption'] = (
-    df['PowerConsumption_Zone1'] + 
-    df['PowerConsumption_Zone2'] + 
-    df['PowerConsumption_Zone3']
-)
-
-# Resampling data per 10 menit menjadi Rata-Rata per Jam
-df_hourly = df.resample('1h', on='Datetime').mean().reset_index()
-
-# Menambahkan kolom pendukung untuk analisis
-df_hourly['Hour'] = df_hourly['Datetime'].dt.hour
-df_hourly['Month'] = df_hourly['Datetime'].dt.month_name()
-df_hourly['Day_Name'] = df_hourly['Datetime'].dt.day_name()
-df_hourly['Is_Weekend'] = df_hourly['Datetime'].dt.dayofweek.isin([5, 6]).map({True: 'Weekend', False: 'Weekday'})
-
-# Simpan data bersih
-df_hourly.to_csv('power_consumption_cleaned.csv', index=False)
 
 
