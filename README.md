@@ -24,6 +24,7 @@ Data jadi jauh lebih ringkas (8.736 baris) dan siap untuk dianalisis.
 
 Saya membuat sebuah dashboard di Power BI dari data yang telah disederhanakan  
 
+![Teks Alternatif](Dashboard.jpg)
 
 
 
