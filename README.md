@@ -32,8 +32,9 @@ Beberapa informasi dari dashboard:
 3. Lonjakan pemakaian power listrik yang sangat aktif terjadi pada rentang suhu 12°C hingga 28°C. Ini menandakan bahwa warga warga di Tetouan sangat mengandalkan perangkat pendingin maupun pemanas ruangan saat terjadi perubahan suhu pergantian musim  
 4. Zone 1 (wilayah stasiun Quads) memimpin jauh sebagai konsumen power listrik terbesar dengan total 0.28 BillionWatt  
 5. Rata-rata konsumsi power listrik saat weekdays lebih besar daripada saat weekend  
-![Teks Alternatif](weekdays.png)  
-![Teks Alternatif](weekend.png)
+  
+![Teks Alternatif](Weekdays.png)  
+![Teks Alternatif](Weekend.png)
 
 
 
