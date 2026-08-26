@@ -26,7 +26,7 @@ Saya membuat sebuah dashboard di Power BI dari data yang telah disederhanakan
 
 ![Teks Alternatif](dashboard.jpg)  
 
-Beberapa informasi dari dashboard:  
+**Beberapa informasi dari dashboard:**  
 1. Puncak konsumsi power listrik per jam yaitu 133.33 kiloWatt  
 2. Malam hari adalah jam puncak (peak hours) dalam penggunaan power listrik dan yang paling banyak adalah jam 8 malam  
 3. Lonjakan pemakaian power listrik yang sangat aktif terjadi pada rentang suhu 12°C hingga 28°C. Ini menandakan bahwa warga warga di Tetouan sangat mengandalkan perangkat pendingin maupun pemanas ruangan saat terjadi perubahan suhu pergantian musim  
@@ -36,7 +36,7 @@ Beberapa informasi dari dashboard:
 ![Teks Alternatif](Weekdays.png)  
 ![Teks Alternatif](Weekend.png)  
 
-Strategi dan rekomendasi dari informasi yang ada:  
+**Strategi dan rekomendasi dari informasi yang ada:**  
 1. Area Stasiun Quads (zone 1) merupakan jantung kota yang menyedot listrik paling banyak. Oleh karena itu cadangan listrik (trafo cadangan) dan jadwal perawatan rutin harus diprioritaskan penuh di zone 1 ini.  
 2. Warga Tetouan sangat sensitif dengan perubahan suhu (antara 12°C sampai 28°C). Begitu cuaca mulai masuk musim panas atau musim dingin, penggunaan AC dan pemanas pasti langsung melonjak serentak. Pengelola listrik tidak boleh kaget dan harus sudah menyiapkan cadangan pasokan daya ekstra dari jauh-jauh hari sebelum pergantian musim dimulai.
 
